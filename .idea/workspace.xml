@@ -2,133 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="cdb932d9-7e58-4d94-93a9-e7b232ef17da" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Mastermind.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Mastermind/META-INF/Mastermind.kotlin_module" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Mastermind/cui/Applicatie.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Mastermind/domein/DaagUit.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Mastermind/domein/DomeinController.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Mastermind/domein/KlassementRepository.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Mastermind/domein/Kleuren.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Mastermind/domein/Moeilijkheidsgraad.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Mastermind/domein/Spel.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Mastermind/domein/SpelBord.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Mastermind/domein/SpelRepository.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Mastermind/domein/Speler.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Mastermind/domein/SpelerRepository.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Mastermind/domein/UitdaagRepository.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Mastermind/gui/BekijkUitdagingen$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Mastermind/gui/BekijkUitdagingen$2.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Mastermind/gui/BekijkUitdagingen.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Mastermind/gui/DaagUit$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Mastermind/gui/DaagUit$2.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Mastermind/gui/DaagUit.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Mastermind/gui/HoofdScherm.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Mastermind/gui/KiesTaal$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Mastermind/gui/KiesTaal$2.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Mastermind/gui/KiesTaal$3.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Mastermind/gui/KiesTaal.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Mastermind/gui/KlassementScherm$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Mastermind/gui/KlassementScherm.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Mastermind/gui/LaadSpelOp$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Mastermind/gui/LaadSpelOp$2.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Mastermind/gui/LaadSpelOp.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Mastermind/gui/LaadSpelOpFXML.fxml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Mastermind/gui/LoginScherm$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Mastermind/gui/LoginScherm$2.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Mastermind/gui/LoginScherm.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Mastermind/gui/MastermindSoundtrack.wav" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Mastermind/gui/Menu$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Mastermind/gui/Menu$2.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Mastermind/gui/Menu$3.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Mastermind/gui/Menu$4.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Mastermind/gui/Menu$5.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Mastermind/gui/Menu$6.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Mastermind/gui/Menu.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Mastermind/gui/MoeilijkheidScherm$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Mastermind/gui/MoeilijkheidScherm$2.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Mastermind/gui/MoeilijkheidScherm$3.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Mastermind/gui/MoeilijkheidScherm.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Mastermind/gui/RegistreerScherm$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Mastermind/gui/RegistreerScherm.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Mastermind/gui/Retro.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Mastermind/gui/SFAlienEncounters.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Mastermind/gui/SpelScherm$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Mastermind/gui/SpelScherm.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Mastermind/gui/SpelbordScherm.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Mastermind/gui/SpelbordVisualx4.fxml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Mastermind/gui/SpelbordVisualx5.fxml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Mastermind/gui/SpelbordVisualx5Base.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Mastermind/gui/SpelbordVisueelVier$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Mastermind/gui/SpelbordVisueelVier$10.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Mastermind/gui/SpelbordVisueelVier$11.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Mastermind/gui/SpelbordVisueelVier$12.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Mastermind/gui/SpelbordVisueelVier$2.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Mastermind/gui/SpelbordVisueelVier$3.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Mastermind/gui/SpelbordVisueelVier$4.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Mastermind/gui/SpelbordVisueelVier$5.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Mastermind/gui/SpelbordVisueelVier$6.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Mastermind/gui/SpelbordVisueelVier$7.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Mastermind/gui/SpelbordVisueelVier$8.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Mastermind/gui/SpelbordVisueelVier$9.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Mastermind/gui/SpelbordVisueelVier.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Mastermind/gui/SpelbordVisueelVierTest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Mastermind/gui/SpelbordVisueelVijf$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Mastermind/gui/SpelbordVisueelVijf$10.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Mastermind/gui/SpelbordVisueelVijf$11.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Mastermind/gui/SpelbordVisueelVijf$12.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Mastermind/gui/SpelbordVisueelVijf$2.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Mastermind/gui/SpelbordVisueelVijf$3.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Mastermind/gui/SpelbordVisueelVijf$4.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Mastermind/gui/SpelbordVisueelVijf$5.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Mastermind/gui/SpelbordVisueelVijf$6.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Mastermind/gui/SpelbordVisueelVijf$7.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Mastermind/gui/SpelbordVisueelVijf$8.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Mastermind/gui/SpelbordVisueelVijf$9.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Mastermind/gui/SpelbordVisueelVijf.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Mastermind/gui/StartUp.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Mastermind/gui/Viper.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Mastermind/gui/vinny.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Mastermind/imgs2/Blauw.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Mastermind/imgs2/Bruin.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Mastermind/imgs2/Cyaan.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Mastermind/imgs2/Geel.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Mastermind/imgs2/Groen.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Mastermind/imgs2/Mastermind4.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Mastermind/imgs2/Mastermind5.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Mastermind/imgs2/Oranje.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Mastermind/imgs2/Paars.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Mastermind/imgs2/Rood.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Mastermind/imgs2/Wit.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Mastermind/imgs2/Zwart.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Mastermind/imgs2/bg.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Mastermind/module-info.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Mastermind/persistentie2/Connectie.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Mastermind/persistentie2/KlassementMapper.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Mastermind/persistentie2/SpelMapper.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Mastermind/persistentie2/SpelerMapper.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Mastermind/persistentie2/UitdaagMapper.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Mastermind/taal/LabelsBundle.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Mastermind/taal/LabelsBundle_en.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Mastermind/taal/LabelsBundle_fr.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Mastermind/taal/LabelsBundle_nl.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Mastermind/taal/Taal.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/cui/Applicatie.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/gui/KiesTaal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/gui/StartUp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/module-info.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/persistentie2/Connectie.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/ant.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/artifacts/JavaFxApp.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/persistentie2/KlassementMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/persistentie2/SpelMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/persistentie2/SpelerMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/persistentie2/UitdaagMapper.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/sample/Controller.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/sample/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/sample/sample.fxml" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -227,7 +107,7 @@
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="recentsLimit" value="5" />
   </component>
-  <component name="RunManager" selected="Application.StartUp">
+  <component name="RunManager" selected="Application.Applicatie">
     <configuration default="true" type="Applet" factoryName="Applet">
       <module name="" />
       <option name="MAIN_CLASS_NAME" />
@@ -400,22 +280,26 @@
       <screen x="1920" y="0" width="1920" height="1080" />
     </state>
     <state x="2703" y="453" key="Github.CreateGistDialog/1920.0.1920.1080/0.27.1920.1053@1920.0.1920.1080" timestamp="1578049985867" />
-    <state width="1807" height="487" key="GridCell.Tab.0.bottom" timestamp="1578056284379">
+    <state width="1807" height="105" key="GridCell.Tab.0.bottom" timestamp="1578056836147">
       <screen x="1920" y="0" width="1920" height="1080" />
     </state>
-    <state width="1807" height="487" key="GridCell.Tab.0.bottom/1920.0.1920.1080/0.27.1920.1053@1920.0.1920.1080" timestamp="1578056284379" />
-    <state width="1807" height="487" key="GridCell.Tab.0.center" timestamp="1578056284379">
+    <state width="1874" height="105" key="GridCell.Tab.0.bottom/1920.0.1920.1080/0.27.1920.1053@0.27.1920.1053" timestamp="1578056731345" />
+    <state width="1807" height="105" key="GridCell.Tab.0.bottom/1920.0.1920.1080/0.27.1920.1053@1920.0.1920.1080" timestamp="1578056836147" />
+    <state width="1807" height="105" key="GridCell.Tab.0.center" timestamp="1578056836147">
       <screen x="1920" y="0" width="1920" height="1080" />
     </state>
-    <state width="1807" height="487" key="GridCell.Tab.0.center/1920.0.1920.1080/0.27.1920.1053@1920.0.1920.1080" timestamp="1578056284379" />
-    <state width="1807" height="487" key="GridCell.Tab.0.left" timestamp="1578056284379">
+    <state width="1874" height="105" key="GridCell.Tab.0.center/1920.0.1920.1080/0.27.1920.1053@0.27.1920.1053" timestamp="1578056731345" />
+    <state width="1807" height="105" key="GridCell.Tab.0.center/1920.0.1920.1080/0.27.1920.1053@1920.0.1920.1080" timestamp="1578056836147" />
+    <state width="1807" height="105" key="GridCell.Tab.0.left" timestamp="1578056836147">
       <screen x="1920" y="0" width="1920" height="1080" />
     </state>
-    <state width="1807" height="487" key="GridCell.Tab.0.left/1920.0.1920.1080/0.27.1920.1053@1920.0.1920.1080" timestamp="1578056284379" />
-    <state width="1807" height="487" key="GridCell.Tab.0.right" timestamp="1578056284379">
+    <state width="1874" height="105" key="GridCell.Tab.0.left/1920.0.1920.1080/0.27.1920.1053@0.27.1920.1053" timestamp="1578056731345" />
+    <state width="1807" height="105" key="GridCell.Tab.0.left/1920.0.1920.1080/0.27.1920.1053@1920.0.1920.1080" timestamp="1578056836147" />
+    <state width="1807" height="105" key="GridCell.Tab.0.right" timestamp="1578056836147">
       <screen x="1920" y="0" width="1920" height="1080" />
     </state>
-    <state width="1807" height="487" key="GridCell.Tab.0.right/1920.0.1920.1080/0.27.1920.1053@1920.0.1920.1080" timestamp="1578056284379" />
+    <state width="1874" height="105" key="GridCell.Tab.0.right/1920.0.1920.1080/0.27.1920.1053@0.27.1920.1053" timestamp="1578056731345" />
+    <state width="1807" height="105" key="GridCell.Tab.0.right/1920.0.1920.1080/0.27.1920.1053@1920.0.1920.1080" timestamp="1578056836147" />
     <state width="1807" height="344" key="GridCell.Tab.1.bottom" timestamp="1578053840234">
       <screen x="1920" y="0" width="1920" height="1080" />
     </state>
